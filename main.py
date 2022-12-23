@@ -2,7 +2,7 @@
 import csv
 
 #csv file name
-filename = 'Trivia Game(test).csv'
+filename = 'Trivia Game.csv'
 
 # initializing the titles and rows list
 fields = []
